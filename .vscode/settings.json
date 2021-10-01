@@ -1,0 +1,9 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "editor.fontSize": 15,
+    "winopacity.opacity": 250
+}
